@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RxBus</string>
+    <string name="title_activity_child">ChildActivity</string>
+    <string name="publish_text">Publish Text</string>
+    <string name="result_will_display_here">Result Will Display Here</string>
+    <string name="go_to_child_activity">Go To Child Activity</string>
 </resources>
